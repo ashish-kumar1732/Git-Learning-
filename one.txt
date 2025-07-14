@@ -1,3 +1,9 @@
 this is first 
 
 some file added and commit it
+
+some footer
+
+add nav bar
+
+payment list added
